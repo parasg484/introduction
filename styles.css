@@ -1,0 +1,93 @@
+
+body{
+  margin:auto;
+  text-align: center;
+  /* font-family: 'Merriweather', serif; */
+background-color: #F0D9FF;
+}
+.top-container{
+
+
+position: relative;
+padding-top: 100px;
+}
+.top-cloud{
+position:absolute;
+right: 350px;
+top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:350px;
+  bottom:300px;
+
+}
+.mountain{
+  padding-top: 5%;
+}
+span{
+  text-decoration: underline;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+font-size: 5.25rem;
+margin-top: 0;
+}
+h2{
+  font-family: 'Sacramento', cursive;
+font-size: 50px;
+background-color: #BFA2DB;
+}
+p{
+font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 5%;
+
+
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+
+/* margin-bottom: 5%; */
+}
+.paras-image{
+  height:15%;
+  width:15%;
+  border-radius: 100%;
+  margin-top: 10%;
+}
+.computer-image{
+  height:15%;
+  width:15%;
+  border-radius: 100%;
+
+  margin-bottom: 3%;
+
+
+}
+.skills{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.cs{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+
+}
+.chillies{
+  height:15%;
+  width:15%;
+  border-radius: 100%;
+  margin-top:5%;
+}
+a{
+  margin:2%;
+}
+.contact-me{
+  margin: 3em;
+}
+.bottom-container{
+  font-size: 20px;
+}
